@@ -20,4 +20,4 @@ DASHBOARD UTILIZATION:
 
 PBIX FILE LINK: https://drive.google.com/file/d/1Xtf-Bc_Jm2JHeWJ7qrCLiFj9gvvraUls/view?usp=sharing
 
-PDF LINK: https://drive.google.com/file/d/1ZDxmQ8BHCcwAsf8V8pNt0Y8m83vK6PWA/view?usp=sharing
+PDF LINK: https://drive.google.com/file/d/1LP1g-z3KuF41Yk6ESTz8CunBdOy-HmCe/view?usp=sharing
